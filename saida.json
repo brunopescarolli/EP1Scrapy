@@ -1,0 +1,3 @@
+[
+{"id": 1, "name": "Bulbasaur", "weight": 6.9, "height": 0.7, "types": ["Grass", "Poison"], "url": "https://pokemondb.net/pokedex/bulbasaur", "abilities": [{"name": "Overgrow", "text": "Overgrow increases the power of Grass-type moves by 50% (1.5x) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch).", "url": "https://pokemondb.net/ability/overgrow"}, {"name": "Chlorophyll", "text": "Chlorophyll doubles the ability-bearer's Speed during bright sunshine.", "url": "https://pokemondb.net/ability/chlorophyll"}], "evolution": {"id": 2, "name": "Ivysaur", "url": "https://pokemondb.net/pokedex/ivysaur"}}
+]
